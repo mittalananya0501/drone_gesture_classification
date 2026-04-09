@@ -11,7 +11,5 @@ pip install -r requirements.txt
 Run:
 
 ```bash
-python mediaPipeAndCNN/dataCollect.py
-python mediaPipeAndCNN/train_model.py
 python mediaPipeAndCNN/gesturePredict.py
 ```
